@@ -1,0 +1,15 @@
+body {
+    background-color: var(--color-black);
+    color: var(--color-white);
+}
+.screen-great {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.screen-great a {
+    color: var(--color-green);
+}

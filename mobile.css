@@ -1,0 +1,23 @@
+@media screen and (max-width: 600px) {
+    .products {
+        display: inherit;
+        height: auto;
+    }
+    .product {
+        margin-top: auto;
+    }
+    .main-section {
+        padding: 4%;
+    }
+    .section-cats {
+        margin-top: 550px;
+        display: inherit;
+        flex-direction: column;
+    }
+    .mentions {
+        display: inherit;
+    }
+    .content-cats {
+        margin-top: auto;
+    }
+}
